@@ -1,0 +1,8 @@
+test\alta\stepdefinitions\LogReportStepdefs.class
+test\alta\hooks\BaseDriverHooks.class
+test\alta\pages\LogReport.class
+test\alta\CucumberTestSuite.class
+test\alta\stepdefinitions\LoginStepdefs.class
+test\alta\pageobject\BasePageObject.class
+test\alta\pages\LoginPage.class
+test\alta\pages\Screen.class
